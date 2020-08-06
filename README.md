@@ -3,4 +3,4 @@ Proofo is a penetration testing report automation tool that aims to gain efficie
 
 A tutorial on how to use Proofo has been posted on https://widesecurity.net/proofo/proofo-manual/
 
-A Database has been provided - please update the database with your own findings (attacks) in order to provide a universal database to everyone.
+A Database has been provided - feel free to update the database with your own findings (attacks) in order to provide a universal database to everyone.
